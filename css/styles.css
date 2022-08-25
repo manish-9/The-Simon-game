@@ -5,7 +5,9 @@ body {
   text-align: center;
 }
 
-h1 {
+.gameStatus,
+.btn {
+  color: #ffaf11;
   font-family: "Rubik Iso", cursive;
   font-size: 4rem;
 }
