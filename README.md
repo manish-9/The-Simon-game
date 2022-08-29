@@ -12,7 +12,7 @@ Game rules {
   
   4. Restart the game by clicking on the "Restart" button shown in game over message.
   
-  5. Each level consists of level + 1 number of total sequence and the level increments if user gets all colors in the sequence correctly.
+  5. Each level consists of level number of total colors in a sequence and the level increments if user gets all colors in the sequence correctly.
   
   6. Have Fun 😛
 
